@@ -26,4 +26,4 @@ The following Python libraries were used:
 The codes used for the analysis are available under the ["Scripts"](https://github.com/petermaci/Instacart-Analysis-analyzing-shopping-behavior-/tree/main/03%20Scripts) folder.
 
 # Final Report
-The final report (link) details the steps undertaken to analyze the dataframes and includes recommendations how to proceed further. 
+The [final report](https://github.com/petermaci/Instacart-Analysis-analyzing-shopping-behavior-/blob/main/05%20Sent%20to%20client/Final_Report.xlsx) details the steps undertaken to analyze the dataframes and includes recommendations how to proceed further. 
