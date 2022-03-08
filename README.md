@@ -23,7 +23,7 @@ The following Python libraries were used:
 5. seaborn - for visualization
 
 # Code
-The codes used for the analysis are available under the "Scripts" folder.
+The codes used for the analysis are available under the ["Scripts"](https://github.com/petermaci/Instacart-Analysis-analyzing-shopping-behavior-/tree/main/03%20Scripts) folder.
 
 # Final Report
 The final report (link) details the steps undertaken to analyze the dataframes and includes recommendations how to proceed further. 
